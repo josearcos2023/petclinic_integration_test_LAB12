@@ -28,5 +28,4 @@ public class PetTO {
 	private int ownerId;
 
 	private String birthDate;
-
 }
